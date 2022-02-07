@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "xabikos.javascriptsnippets",
+        "msjsdiag.debugger-for-chrome",
+        "tabnine.tabnine-vscode",
+        "rebornix.ruby",
+        "golang.go",
+        "juanblanco.solidity",
+        "eamodio.gitlens",
+        "firefox-devtools.vscode-firefox-debug"
+    ]
+}
